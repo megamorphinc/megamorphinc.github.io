@@ -1,0 +1,136 @@
+
+@media screen and (min-width: 1200px) and (max-width: 1320px) {
+
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.serv1 {
+    height: 300px;
+  }
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+ .bnr-txt h2  {
+    margin-top: 0 !important;
+  }
+
+  .wwa-img img {
+    margin-top: 80px;
+  }
+
+  .app-img img {
+    margin-top: 80px;
+  }
+  .customer p {
+    font-weight: 400;
+    font-size: 11px;
+  }
+  .footer li a {
+    color: #fff;
+    font-size: 15px;
+  }
+
+  .serv1 {
+    height: 370px;
+  }
+
+}
+
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+
+@media screen and (max-width: 576px) {
+
+    .navbar-brand img {
+        max-width: 140px;
+    }
+    .bar-icon img {
+        max-width: 25px;
+    }
+
+    .header-area {
+    padding: 0px;
+}
+ .serv1 {
+    height: 300px;
+  }
+
+
+}
+
+
+@media screen and (max-width: 991px) {
+
+  .navbar-brand img {
+   width: 80px;
+  }
+   .navbar .navbar-nav .contact_btn {
+    margin: 8px 0;
+  }
+
+  .wwa-txt {
+    padding-left: 0px;
+  }
+
+  .services-txt {
+    padding-left: 0px;
+  }
+
+
+  h2 {
+    font-size: 35px;
+  }
+
+  h5 {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  .team {
+    padding: 50px 10px;
+  }
+
+  .customer-wrap {
+    padding: 60px 0px 0;
+  }
+
+  .customer {
+    margin-bottom: 20px;
+  }
+
+  .serv1 {
+    margin-bottom: 50px;
+  }
+
+  .banner-area {
+    padding: 50px 0 100px;
+  }
+
+  .services-area {
+    padding: 0px 0 100px;
+  }
+
+
+}
+
+
+
+}
